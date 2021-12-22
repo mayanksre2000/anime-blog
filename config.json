@@ -1,0 +1,17 @@
+{
+    "params": {
+        "blog_name": "weebilicious",
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/weeb",
+        "prod_uri": "mysql://root:@localhost/weeb",
+        "fb_url":"https://www.facebook.com",
+        "gh_url":"https://github.com/",
+        "no_of_posts": "1",
+        "no_of_tables": "2",
+        "tw_url":"https://twitter.com/",
+        "gmail_user":"gauravnpai@gmail.com",
+        "gmail_password":"G 30142857",
+        "admin_user":"mr_mayank_singhal",
+        "admin_password":"weebilicious"
+    }
+}
